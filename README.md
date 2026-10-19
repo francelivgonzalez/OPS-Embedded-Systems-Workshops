@@ -14,8 +14,6 @@ These are four Arduino Nano projects I developed, programmed, and used to teach 
 
 | Project | Description |
 
-|---|---|
-
 | \[01 - Night-Light](01-Night-Light/) | Uses a photoresistor to automatically control an LED. |
 
 | \[02 - Light Theremin](02-Light-Theremin/) | Changes speaker pitch based on surrounding light. |
