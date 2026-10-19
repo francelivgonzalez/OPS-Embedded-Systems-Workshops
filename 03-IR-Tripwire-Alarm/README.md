@@ -36,5 +36,17 @@ The code assumes the receiver outputs HIGH when the beam is interrupted.
 
 
 
+\## Circuit Diagram
 
+
+
+!\[Circuit Diagram](images/circuit.png)
+
+
+
+\## Circuit Schematic
+
+
+
+!\[Circuit Schematic](images/schematic.png)
 

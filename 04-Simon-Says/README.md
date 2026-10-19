@@ -36,5 +36,17 @@ The LEDs use pins D2 through D5, and the buttons use D6 through D9.
 
 
 
+\## Circuit Diagram
 
+
+
+!\[Circuit Diagram](images/circuit.png)
+
+
+
+\## Circuit Schematic
+
+
+
+!\[Circuit Schematic](images/schematic.png)
 

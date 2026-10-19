@@ -31,6 +31,14 @@ The photoresistor is connected to A0, and the speaker is connected to D9. The Ar
 \[light\_theremin.ino](light\_theremin.ino)
 
 
+## Circuit Diagram
+
+![Circuit Diagram](images/circuit.png)
+
+## Circuit Schematic
+
+![Circuit Schematic](images/schematic.png)
+
 
 
 
