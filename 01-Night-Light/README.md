@@ -32,3 +32,19 @@ The photoresistor is connected to analog pin A0, and the LED is connected to dig
 
 \[night\_light.ino](night\_light.ino)
 
+
+
+\## Circuit Diagram
+
+
+
+!\[Circuit Diagram](images/circuit.png)
+
+
+
+\## Circuit Schematic
+
+
+
+!\[Circuit Schematic](images/schematic.png)
+
